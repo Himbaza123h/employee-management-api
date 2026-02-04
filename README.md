@@ -74,7 +74,7 @@ A comprehensive RESTful API for managing employees and their attendance records,
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Himbaza123h/employee-management-api.git
 cd employee-management-api
 ```
 
@@ -508,7 +508,7 @@ This project is open-sourced software licensed under the MIT license.
 
 ## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
+For support, email himbazaalain022@gmail.com or open an issue in the repository.
 
 ## ✨ Credits
 
